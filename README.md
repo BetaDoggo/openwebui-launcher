@@ -6,3 +6,4 @@ Download `launch-openwebui.bat` and run it in an empty folder.
 
 # 
 ![image](https://github.com/user-attachments/assets/dc49dc94-524b-46d7-9f05-fabd6220af01)
+![image](https://github.com/user-attachments/assets/04a9ed26-d23c-4943-8887-bd642fdc618d)
